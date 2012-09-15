@@ -59,3 +59,4 @@ After (dreams)
 
 
 ## GC
+* copy and write patch 入れた.
