@@ -23,3 +23,39 @@ ruby kaigi at tokyo this year
 
 
 ## rubymotion
+
+# Day 2
+
+## Functionnal programming
+
+## Pattern Matching
+
+## Aaron Keynote
+
+## Matz keynote
+
+## US conference
+
+## Perl - ruby
+
+## Ruby vm
+
+* october : feature freeze
+* 2.0 release : 2013/02/24 20th anniversary
+* compatibility, compatibility, compatibility, usability, performance
+* module prepend ; search method in module before class
+* Flonum : no more GC for float
+* New backtrace API "caller_location", array of strings => array of object (path
+and lineno methods)
+
+Remaining
+* VM changes
+* optimize method call (important in OOP, tail_call, caching, etc..)
+
+After (dreams)
+* compilation
+* // execution
+* pluggable features
+
+
+## GC
