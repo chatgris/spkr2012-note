@@ -79,3 +79,10 @@ After (dreams)
 
 * for fun, for challenge
 * don't be afraid of failure
+
+
+## DCI
+* mental model, where's the feature you're trying to build
+* evengelist
+
+## DCI
