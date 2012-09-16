@@ -74,3 +74,8 @@ After (dreams)
 * dev- testing should be fast / CI should be fast
 * remote spec / distributed ci
 * Rspec::Core::World#clear
+
+## Writing ruby for fun
+
+* for fun, for challenge
+* don't be afraid of failure
