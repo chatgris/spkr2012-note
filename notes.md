@@ -60,3 +60,17 @@ After (dreams)
 
 ## GC
 * copy and write patch 入れた.
+
+# Day 3
+
+## Continous delivery
+* jenkins
+* automation deployment
+* short circle to end user
+
+## Distributed Rspec
+* big rails app, over 800 models
+* build / deploy takes too much time
+* dev- testing should be fast / CI should be fast
+* remote spec / distributed ci
+* Rspec::Core::World#clear
